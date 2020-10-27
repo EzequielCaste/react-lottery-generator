@@ -1,2 +1,2 @@
-# react-lottery-generator
+# React Lottery Generator
 Created with CodeSandbox
