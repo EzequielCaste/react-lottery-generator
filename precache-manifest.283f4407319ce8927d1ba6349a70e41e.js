@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3568db2b6bb65981f16c0840746a3af",
+    "revision": "e5ce887123f4ddbd67d330ae3666a8c9",
     "url": "/react-lottery-generator/index.html"
   },
   {
-    "revision": "cfa406a88d8355f7705d",
-    "url": "/react-lottery-generator/static/css/main.496d3f99.chunk.css"
+    "revision": "fa97cf2a1bce0b2bc331",
+    "url": "/react-lottery-generator/static/css/main.c0684236.chunk.css"
   },
   {
     "revision": "35a95d2ddefd783caf6e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-lottery-generator/static/js/2.7cc1991b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfa406a88d8355f7705d",
-    "url": "/react-lottery-generator/static/js/main.43c3eea7.chunk.js"
+    "revision": "fa97cf2a1bce0b2bc331",
+    "url": "/react-lottery-generator/static/js/main.577d4dd1.chunk.js"
   },
   {
     "revision": "e978396bacd8e1471c54",
